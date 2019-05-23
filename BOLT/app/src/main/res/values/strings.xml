@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BOLT</string>
+    <string name="read_card">Card Reader</string>
+    <string name="emulate_card">Open Card</string>
+    <string name="init_bps">Initiate Transaction</string>
+</resources>
